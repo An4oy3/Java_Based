@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>ToDoList</title>
+    <script src="/js/jquery-3.4.0.min.js"></script>
+    <script src="/js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+<body>
+    <div id="casse-form">
+        <form>
+            <h2>Добавление дела</h2>
+            <label>Название дела</label>
+            <input type="text" name="name" value="">
+            <label>Deadline</label>
+            <input type="text" name="deadline" value="">
+            <hr>
+            <button id="save-casse">Сохранить</button>
+        </form>
+    </div>
+    <h1>Список дел (<span th:text="${casseCount}"></span>)</h1>
+    <button id="show-add-casse-form">Добавить дело</button>
+    <br><br>
+    <div id="casse-list">
+        <div th:each="casse : ${Casse}">
+            <a href="#" class="casse-link" th:attr="data-id=${casse.id}" th:text="${casse.name}"></a>
+        </div>
+
+    </div>
+
+</body>
+</html>

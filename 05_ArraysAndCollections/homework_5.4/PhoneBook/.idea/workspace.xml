@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83fdbe8a-284a-4044-beab-17643ca40608" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1noKoXMnlOxbkWDBPYjNcV1Fu7D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneBookTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PhoneBook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.addAndRewriteContact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="addAndRewriteContact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.searchContactByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="searchContactByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest.searchContactByNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookTest" />
+      <option name="METHOD_NAME" value="searchContactByNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneBookTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PhoneBookTest.searchContactByNumber" />
+        <item itemvalue="JUnit.PhoneBookTest.searchContactByName" />
+        <item itemvalue="JUnit.PhoneBookTest.addAndRewriteContact" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83fdbe8a-284a-4044-beab-17643ca40608" name="Default Changelist" comment="" />
+      <created>1612051178073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612051178073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="160" width="1308" height="560" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1612103999200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="128" y="160" width="1308" height="560" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1612103999200" />
+    <state x="588" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1612096166456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612096166456" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612173450077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612173450077" />
+    <state width="1449" height="159" key="GridCell.Tab.0.bottom" timestamp="1613931434404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1449" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613931434404" />
+    <state width="1449" height="159" key="GridCell.Tab.0.center" timestamp="1613931434404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1449" height="159" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613931434404" />
+    <state width="1449" height="159" key="GridCell.Tab.0.left" timestamp="1613931434404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1449" height="159" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613931434404" />
+    <state width="1449" height="159" key="GridCell.Tab.0.right" timestamp="1613931434404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1449" height="159" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613931434404" />
+    <state width="1493" height="297" key="GridCell.Tab.1.bottom" timestamp="1612116182224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612116182224" />
+    <state width="1493" height="297" key="GridCell.Tab.1.center" timestamp="1612116182224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612116182224" />
+    <state width="1493" height="297" key="GridCell.Tab.1.left" timestamp="1612116182224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612116182224" />
+    <state width="1493" height="297" key="GridCell.Tab.1.right" timestamp="1612116182224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612116182224" />
+    <state x="480" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1612172762398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="264" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612172762398" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PhoneBook.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

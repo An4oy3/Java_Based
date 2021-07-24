@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf569155-e171-4efe-8412-a62608715416" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="203" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1qLelboT8tf0QHPi4vKuBvI4l2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/homework_8.2/SPBMetro" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Transactions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Transactions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Transactions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Transactions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testGetSumAllAccounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Transactions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="testGetSumAllAccounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Transactions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.testTransfer" />
+        <item itemvalue="JUnit.BankTest.testGetSumAllAccounts" />
+        <item itemvalue="JUnit.All in Transactions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf569155-e171-4efe-8412-a62608715416" name="Default Changelist" comment="" />
+      <created>1616863449116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616863449116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="61" key="#Project_Structure" timestamp="1617102233834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="61" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617102233834" />
+    <state x="130" y="117" width="1284" height="574" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1617107517414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="117" width="1284" height="574" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1617107517414" />
+    <state x="556" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1617104847641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617104847641" />
+    <state x="499" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1617100899967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1617100899967" />
+    <state x="457" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616949896820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1616949896820" />
+    <state x="427" y="112" key="FileChooserDialogImpl" timestamp="1617102787032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="427" y="112" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617102787032" />
+    <state width="1426" height="192" key="GridCell.Tab.0.bottom" timestamp="1617108233879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617108233879" />
+    <state width="1426" height="192" key="GridCell.Tab.0.center" timestamp="1617108233879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617108233879" />
+    <state width="1426" height="192" key="GridCell.Tab.0.left" timestamp="1617108233879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617108233879" />
+    <state width="1426" height="192" key="GridCell.Tab.0.right" timestamp="1617108233879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617108233879" />
+    <state width="1425" height="238" key="GridCell.Tab.1.bottom" timestamp="1616950121931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1425" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616950121931" />
+    <state width="1425" height="238" key="GridCell.Tab.1.center" timestamp="1616950121931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1425" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616950121931" />
+    <state width="1425" height="238" key="GridCell.Tab.1.left" timestamp="1616950121931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1425" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616950121931" />
+    <state width="1425" height="238" key="GridCell.Tab.1.right" timestamp="1616950121931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1425" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616950121931" />
+    <state x="303" y="59" key="Maven.ArtifactSearchDialog" timestamp="1617104270614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="59" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1617104270614" />
+    <state x="231" y="0" key="SettingsEditor" timestamp="1617102259195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="231" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617102259195" />
+    <state x="447" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1617101612763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="226" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617101612763" />
+    <state x="407" y="194" key="run.anything.popup" timestamp="1616880795093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="194" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1616880795093" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Transactions$Main.ic" NAME="Main Coverage Results" MODIFIED="1617107554202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

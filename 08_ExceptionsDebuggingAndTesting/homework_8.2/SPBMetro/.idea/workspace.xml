@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4430bbdd-ded1-4d2a-b321-bdd007036b72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../13_Multithreading/SiteMapParses/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../13_Multithreading/SiteMapParses/src/main/java/Parser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="202" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oQP4CUixfLjZEYckXiUKSCRoZj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../09_FilesAndNetwork/homework_9.5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.RouteCalculatorTest.testGetRouteViaConnectedLine">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spb-metro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetRouteOnTheLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetRouteOnTheLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetRouteViaConnectedLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetRouteViaConnectedLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetRouteWithTwoConnections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetRouteWithTwoConnections" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteViaConnectedLine" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RouteCalculatorTest" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteWithTwoConnections" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteOnTheLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4430bbdd-ded1-4d2a-b321-bdd007036b72" name="Default Changelist" comment="" />
+      <created>1613215647369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613215647369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="58" key="#Inspections" timestamp="1613439569866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="58" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1613439569866" />
+    <state x="129" y="106" width="1256" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1613951530239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="129" y="106" width="1256" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1613951530239" />
+    <state x="848" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1613828543125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1613828543125" />
+    <state x="535" y="163" key="FileChooserDialogImpl" timestamp="1617620041273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="163" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617620041273" />
+    <state width="1326" height="118" key="GridCell.Tab.0.bottom" timestamp="1617108252675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1326" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617108252675" />
+    <state width="1326" height="118" key="GridCell.Tab.0.center" timestamp="1617108252675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1326" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617108252675" />
+    <state width="1326" height="118" key="GridCell.Tab.0.left" timestamp="1617108252674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1326" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617108252674" />
+    <state width="1326" height="118" key="GridCell.Tab.0.right" timestamp="1617108252675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1326" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617108252675" />
+    <state width="1397" height="226" key="GridCell.Tab.1.bottom" timestamp="1613994683396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613994683396" />
+    <state width="1397" height="226" key="GridCell.Tab.1.center" timestamp="1613994683396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613994683396" />
+    <state width="1397" height="226" key="GridCell.Tab.1.left" timestamp="1613994683395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613994683395" />
+    <state width="1397" height="226" key="GridCell.Tab.1.right" timestamp="1613994683396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613994683396" />
+    <state x="317" y="183" key="RollbackChangesDialog" timestamp="1613248344579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="183" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613248344579" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1613828574320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613828574320" />
+    <state x="451" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1617612147286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617612147286" />
+    <state x="209" y="13" key="new project wizard" timestamp="1617612776928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="13" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617612776928" />
+    <state x="425" y="179" key="run.anything.popup" timestamp="1613738595740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="179" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613738595740" />
+    <state x="390" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614649985661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614649985661" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((HashMap.Node)((HashMap)stationIndex.number2line).entrySet().toArray()[1]).getValue()" custom="java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="stationIndex.stations.toArray()[0]" />
+        <watch expression="stationIndex.stations.toArray()[0]" language="JAVA" />
+        <watch expression="stationIndex.stations.toArray()[0]" language="JAVA" />
+        <watch expression="stationIndex" language="JAVA" />
+        <watch expression="calculator.stationIndex.number2line" />
+        <watch expression="from" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spb_metro$All_in_spb_metro.ic" NAME="All in spb-metro Coverage Results" MODIFIED="1613347241847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/spb_metro$RouteCalculatorTest.ic" NAME="RouteCalculatorTest Coverage Results" MODIFIED="1616073569102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

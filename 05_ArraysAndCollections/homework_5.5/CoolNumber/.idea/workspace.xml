@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d4eb21c-005c-409e-a56f-2572ca6c5cf9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1nsKeBul0uJCiVcpcWDuHxQ7sC2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../06_InheritanceAndPolymorphism/homework_6.1" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CoolNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateCoolNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoolNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenerateCoolNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchCoolNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoolNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchCoolNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GenerateCoolNumbersTest" />
+        <item itemvalue="JUnit.SearchCoolNumbersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4eb21c-005c-409e-a56f-2572ca6c5cf9" name="Default Changelist" comment="" />
+      <created>1612173450438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612173450438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="161" key="FileChooserDialogImpl" timestamp="1612395202345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612395202345" />
+    <state width="1426" height="134" key="GridCell.Tab.0.bottom" timestamp="1612375257230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="134" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612375257230" />
+    <state width="1426" height="134" key="GridCell.Tab.0.center" timestamp="1612375257230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="134" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612375257230" />
+    <state width="1426" height="134" key="GridCell.Tab.0.left" timestamp="1612375257230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="134" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612375257230" />
+    <state width="1426" height="134" key="GridCell.Tab.0.right" timestamp="1612375257230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="134" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612375257230" />
+    <state x="465" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1612395048263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="230" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1612395048263" />
+    <state x="150" y="212" key="run.anything.popup" timestamp="1612175528772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="150" y="212" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612175528772" />
+  </component>
+</project>
