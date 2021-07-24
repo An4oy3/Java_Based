@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="homework_4.4.1(Alphabet):jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="homework_4.4.1(Alphabet).jar">
+      <element id="module-output" name="homework_4.4.1(Alphabet)" />
+    </root>
+  </artifact>
+</component>

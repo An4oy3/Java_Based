@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ecf508a-ec70-4920-b651-a41463e4f504" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1nEHDhlY49jR2ZkvzZRl0w4xJns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../05_ArraysAndCollections/homework_5.3/EmailList" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BirthdayCalendar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirthdayCalendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.currentDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirthdayCalendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="currentDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.firstOfJanuary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirthdayCalendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="firstOfJanuary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.lastYearDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirthdayCalendar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="lastYearDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.currentDate" />
+        <item itemvalue="JUnit.MainTest.firstOfJanuary" />
+        <item itemvalue="JUnit.MainTest.lastYearDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ecf508a-ec70-4920-b651-a41463e4f504" name="Default Changelist" comment="" />
+      <created>1610948211663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610948211663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="100" width="1284" height="552" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1611744732081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="164" y="100" width="1284" height="552" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1611744732081" />
+    <state x="554" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1611791968502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1611791968502" />
+    <state x="553" y="137" key="FileChooserDialogImpl" timestamp="1611914807228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="137" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611914807228" />
+    <state width="1450" height="204" key="GridCell.Tab.0.bottom" timestamp="1611793928391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611793928391" />
+    <state width="1450" height="204" key="GridCell.Tab.0.center" timestamp="1611793928390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611793928390" />
+    <state width="1450" height="204" key="GridCell.Tab.0.left" timestamp="1611793928390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611793928390" />
+    <state width="1450" height="204" key="GridCell.Tab.0.right" timestamp="1611793928391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611793928391" />
+    <state width="1450" height="228" key="GridCell.Tab.1.bottom" timestamp="1611746435323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611746435323" />
+    <state width="1450" height="228" key="GridCell.Tab.1.center" timestamp="1611746435323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611746435323" />
+    <state width="1450" height="228" key="GridCell.Tab.1.left" timestamp="1611746435323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611746435323" />
+    <state width="1450" height="228" key="GridCell.Tab.1.right" timestamp="1611746435323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1450" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611746435323" />
+    <state x="468" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1611802081812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611802081812" />
+    <state x="263" y="150" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611613818762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="263" y="150" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1611613818762" />
+  </component>
+</project>

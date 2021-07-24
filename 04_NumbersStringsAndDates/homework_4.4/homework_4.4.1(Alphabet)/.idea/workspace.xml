@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a029826c-731f-4d9e-a9bb-1fb761808b2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework_4.6/BirthdayCalendar/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework_4.6/BirthdayCalendar/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1n9k2wWcl7XwCFeCzWeFFqlckKB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TotalEarningsCalculator" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework_4.4.1(Alphabet)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a029826c-731f-4d9e-a9bb-1fb761808b2b" name="Default Changelist" comment="" />
+      <created>1610809490798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610809490798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611138100805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1611138100805" />
+    <state x="544" y="133" key="FileChooserDialogImpl" timestamp="1611138193945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="133" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611138193945" />
+    <state width="1426" height="151" key="GridCell.Tab.0.bottom" timestamp="1611138195086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611138195086" />
+    <state width="1426" height="151" key="GridCell.Tab.0.center" timestamp="1611138195085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611138195085" />
+    <state width="1426" height="151" key="GridCell.Tab.0.left" timestamp="1611138195085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611138195085" />
+    <state width="1426" height="151" key="GridCell.Tab.0.right" timestamp="1611138195085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1426" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611138195085" />
+    <state x="300" y="0" key="SettingsEditor" timestamp="1611138142789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611138142789" />
+  </component>
+</project>
