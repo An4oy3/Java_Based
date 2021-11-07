@@ -23,7 +23,7 @@ public class LordService {
     private final PlanetRepository planetRepository;
 
     public ResponseEntity<LordResponse> addLord(LordRequest request){
-        if(request.getName().isEmpty() || request.getName().matches("\\w")){
+        if(request.getName().isEmpty() || !request.getName().matches("\\w+")){
             return ResponseEntity.badRequest().body(LordResponse.builder().result("Invalid or empty lord`s name").build());
         }
 
