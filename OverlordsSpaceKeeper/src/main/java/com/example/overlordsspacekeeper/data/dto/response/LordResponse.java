@@ -18,6 +18,22 @@ public class LordResponse {
     private long id;
     private String name;
     private long age;
-    private List<Planet> planets;
+    private List<Data> planets;
+
+    @lombok.Data
+    @Builder
+    @AllArgsConstructor
+    @NoArgsConstructor
+    public static class Data{
+        private long id;
+        private String name;
+        private long lordId;
+
+        public Data(Planet planet){
+            this.id = planet.getId();
+            this.name = planet.getName();
+            this.lordId = planet.getLord().getId();
+        }
+    }
 
 }

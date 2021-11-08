@@ -12,7 +12,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Service
@@ -26,18 +28,22 @@ public class LordService {
         if(request.getName().isEmpty() || !request.getName().matches("\\w+")){
             return ResponseEntity.badRequest().body(LordResponse.builder().result("Invalid or empty lord`s name").build());
         }
+        Planet planet = planetRepository.findById(request.getPlanetId()).orElse(null);
+
+        if(planet != null && planet.getLord() != null){
+            return ResponseEntity.badRequest().body(LordResponse.builder().result("The planet already has a lord").build());
+        }
 
         Lord lord = new Lord();
         lord.setName(request.getName());
         lord.setAge(request.getAge());
-        lord.setPlanets(request.getPlanet() == null ? request.getPlanetList() : List.of(request.getPlanet()));
+        lord.setPlanets(planet == null ? new ArrayList<>() : List.of(planet));
         lord = lordRepository.save(lord);
-        return ResponseEntity.ok(LordResponse.builder()
-                .result("ok")
-                .id(lord.getId())
-                .name(lord.getName())
-                .age(lord.getAge())
-                .planets(lord.getPlanets()).build());
+        if(planet != null) {
+           planet.setLord(lord);
+           planetRepository.save(planet);
+        }
+        return ResponseEntity.ok(createLordResponseList(lord));
     }
 
 
@@ -55,31 +61,41 @@ public class LordService {
         }
 
         planet.setLord(lord);
+
+        List<Planet> planets = lord.getPlanets() != null ? lord.getPlanets() : new ArrayList<>();
+        planets.add(planet);
+        lord.setPlanets(planets);
         planetRepository.save(planet);
         return ResponseEntity.ok(new StatusResponse("ok"));
     }
 
     public ResponseEntity<LordListResponse> getAllParasites(){
         List<LordResponse> lordResponseList = lordRepository.findAllByPlanetsEmpty().stream()
-                .map(lord -> LordResponse
-                        .builder().result("ok")
-                        .id(lord.getId())
-                        .name(lord.getName())
-                        .age(lord.getAge())
-                        .planets(lord.getPlanets())
-                        .build()).collect(Collectors.toList());
+                .map(this::createLordResponseList)
+                .collect(Collectors.toList());
         return ResponseEntity.ok(new LordListResponse(lordResponseList.size(), lordResponseList));
     }
 
     public ResponseEntity<LordListResponse> getTopYoungestLords(){
         List<LordResponse> lordResponseList = lordRepository.findTopByAge().stream()
-                .map(lord -> LordResponse
-                        .builder().result("ok")
-                        .id(lord.getId())
-                        .name(lord.getName())
-                        .age(lord.getAge())
-                        .planets(lord.getPlanets())
-                        .build()).collect(Collectors.toList());
+                .map(this::createLordResponseList)
+                .collect(Collectors.toList());
         return ResponseEntity.ok(new LordListResponse(lordResponseList.size(), lordResponseList));
+    }
+
+    private LordResponse createLordResponseList(Lord lord){
+        return LordResponse
+                .builder()
+                .result("ok")
+                .id(lord.getId())
+                .name(lord.getName())
+                .age(lord.getAge())
+                .planets(lord.getPlanets() == null ? null : lord.getPlanets().stream().map(p ->
+                        LordResponse.Data
+                                .builder()
+                                .id(p.getId())
+                                .name(p.getName())
+                                .lordId(p.getLord().getId()).build()).collect(Collectors.toList()))
+                .build();
     }
 }

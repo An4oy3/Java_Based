@@ -93,7 +93,7 @@ class LordControllerTest {
     void assignControl() throws Exception {
         StatusResponse statusResponse = new StatusResponse("ok");
         given(lordService.assignControl(lord.getId(), planet.getId())).willReturn(ResponseEntity.ok(statusResponse));
-        mvc.perform(put("/api/v1/lord/1/controlAssign/")
+        mvc.perform(put("/api/v1/lord/1/assignControl")
                 .param("planetId", "1"))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.result").value(statusResponse.getResult()));
@@ -104,7 +104,7 @@ class LordControllerTest {
         List<LordResponse> lords = List.of(lordResponse);
         LordListResponse listResponse = new LordListResponse(lords.size(), lords);
         given(lordService.getAllParasites()).willReturn(ResponseEntity.ok(listResponse));
-        mvc.perform(get("/api/v1/lord/parasiteLords")
+        mvc.perform(get("/api/v1/lord/parasites")
                 .contentType(MediaType.APPLICATION_JSON))
                 .andExpect(status().isOk())
                 .andExpect((ResultMatcher) jsonPath("$.count").value(1));
@@ -116,7 +116,7 @@ class LordControllerTest {
         List<LordResponse> lords = List.of(lordResponse);
         LordListResponse listResponse = new LordListResponse(lords.size(), lords);
         given(lordService.getAllParasites()).willReturn(ResponseEntity.ok(listResponse));
-        mvc.perform(get("/api/v1/lord/parasiteLords")
+        mvc.perform(get("/api/v1/lord/parasites")
                         .contentType(MediaType.APPLICATION_JSON))
                 .andExpect(status().isOk())
                 .andExpect((ResultMatcher) jsonPath("$.count").value(1));

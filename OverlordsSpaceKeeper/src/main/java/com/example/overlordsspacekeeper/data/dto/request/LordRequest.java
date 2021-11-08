@@ -11,7 +11,6 @@ public class LordRequest {
 
     private String name;
     private long age;
-    private Planet planet;
-    private List<Planet> planetList;
+    private long planetId;
 
 }

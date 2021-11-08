@@ -21,7 +21,7 @@ public class PlanetController {
         return planetService.addPlanet(request);
     }
 
-    @PutMapping("/{id}/controlAssign")
+    @PutMapping("/{id}/assignControl")
     public ResponseEntity<StatusResponse> assignControl(@PathVariable Long id,
                                                         @RequestParam(value = "lordId", required = false) long lordId){
         return planetService.assignControl(id, lordId);

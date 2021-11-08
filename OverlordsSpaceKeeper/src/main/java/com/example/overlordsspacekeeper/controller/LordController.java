@@ -22,18 +22,18 @@ public class LordController {
         return lordService.addLord(request);
     }
 
-    @PutMapping("/{id}/controlAssign/")
+    @PutMapping("/{id}/assignControl")
     public ResponseEntity<StatusResponse> assignControl(@PathVariable Long id,
                                                         @RequestParam("planetId") Long planetId){
         return lordService.assignControl(id, planetId);
     }
 
-    @GetMapping("/parasiteLords")
+    @GetMapping("/parasites")
     public ResponseEntity<LordListResponse> getAllParasites(){
         return lordService.getAllParasites();
     }
 
-    @GetMapping("/youngestLords")
+    @GetMapping("/youngest")
     public ResponseEntity<LordListResponse> getTopYoungestLords(){
         return lordService.getTopYoungestLords();
     }

@@ -11,6 +11,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
+import java.util.List;
+
 @Service
 @RequiredArgsConstructor
 public class PlanetService {
@@ -18,17 +21,26 @@ public class PlanetService {
     private final LordRepository lordRepository;
 
     public ResponseEntity<PlanetResponse> addPlanet(PlanetRequest request) {
-        if(request.getName().isEmpty() || request.getName().matches("\\w")){
+        if(request.getName().isEmpty() || !request.getName().matches("\\w+")){
             return ResponseEntity.badRequest().body(PlanetResponse.builder().result("Invalid or empty planet`s name").build());
         }
         if(planetRepository.findByName(request.getName()).orElse(null) != null){
             return ResponseEntity.badRequest().body(PlanetResponse.builder().result("A planet with this name already exists").build());
         }
-        Lord lord = lordRepository.findById(request.getLordId()).orElse(null);
+
         Planet planet = new Planet();
+        Lord lord = lordRepository.findById(request.getLordId()).orElse(null);
+
         planet.setName(request.getName());
         planet.setLord(lord);
         planetRepository.save(planet);
+        if(lord != null){
+            List<Planet> lordPlanets = lord.getPlanets() == null ? new ArrayList<>() : lord.getPlanets();
+            lordPlanets.add(planet);
+            lord.setPlanets(lordPlanets);
+            lordRepository.save(lord);
+        }
+
         return ResponseEntity.ok(PlanetResponse.builder()
                 .result("ok")
                 .id(planet.getId())
@@ -54,6 +66,11 @@ public class PlanetService {
 
         planet.setLord(lord);
         planetRepository.save(planet);
+
+        List<Planet> planets = lord.getPlanets() != null ? lord.getPlanets() : new ArrayList<>();
+        planets.add(planet);
+        lord.setPlanets(planets);
+
         return ResponseEntity.ok(new StatusResponse("ok"));
     }
 
