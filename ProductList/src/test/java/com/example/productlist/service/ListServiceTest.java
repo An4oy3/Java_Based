@@ -1,5 +1,6 @@
 package com.example.productlist.service;
 
+import com.example.productlist.exception.EntityAlreadyExists;
 import com.example.productlist.exception.EntityNotFoundException;
 import com.example.productlist.model.dto.request.ListRequest;
 import com.example.productlist.model.dto.response.ListResponse;
@@ -88,8 +89,8 @@ class ListServiceTest {
         ListRequest request = new ListRequest("Fail", java.util.List.of(1L));
         Throwable ex = catchThrowable(()-> listService.addList(request));
 
-        assertThat(ex).isInstanceOf(EntityNotFoundException.class);
-        assertEquals("Invalid List Name", ex.getMessage());
+        assertThat(ex).isInstanceOf(EntityAlreadyExists.class);
+        assertEquals("List already exists", ex.getMessage());
     }
 
     @Test

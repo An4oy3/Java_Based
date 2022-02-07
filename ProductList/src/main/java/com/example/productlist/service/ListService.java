@@ -1,5 +1,6 @@
 package com.example.productlist.service;
 
+import com.example.productlist.exception.EntityAlreadyExists;
 import com.example.productlist.exception.EntityNotFoundException;
 import com.example.productlist.model.dto.request.ListRequest;
 import com.example.productlist.model.dto.response.ListResponse;
@@ -28,7 +29,7 @@ public class ListService {
 
     public ResponseEntity<ListResponse> addList(ListRequest request){
         if(listRepository.findByName(request.getName()) != null){
-            throw new EntityNotFoundException("Invalid List Name");
+            throw new EntityAlreadyExists("List already exists");
         }
         List list = new List();
         list.setName(request.getName());
